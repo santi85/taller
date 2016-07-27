@@ -9,14 +9,6 @@ package p1p2;
  *
  * @author LDD02
  */
-public class P1p2 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Hola github V2.0");
-    }
+public class NewClass {
     
 }
