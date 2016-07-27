@@ -16,7 +16,7 @@ public class P1p2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola github V2.0");
+        System.out.println("Hola github V3.0");
     }
     
 }
